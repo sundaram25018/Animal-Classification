@@ -1,6 +1,6 @@
 # Animal Classification using CNN 🐄🐃🐐
 
-This project uses Convolutional Neural Networks (CNNs) to classify images of cows, buffaloes, and goats. The model is trained using TensorFlow/Keras and supports data augmentation for improved performance.
+This project uses Convolutional Neural Networks (CNNs) to classify images of cows, buffaloes, and goats. The model is trained using TensorFlow/Keras and supports data augmentation for improved performance having accuracy of 81%.
 
 # 📌 Features
 ✅ Image classification for Cow, Buffalo, and Goat.
