@@ -31,7 +31,7 @@ dataset/
 # 🚀 Installation
 1️⃣ Clone this repository:
 ```bash
-git clone https://github.com/yourusername/animal-classification-cnn.git
+git clone https://github.com/sundaram25018/animal-classification-cnn.git
 cd animal-classification-cnn
 ```
 # 2️⃣ Install dependencies:
