@@ -1,0 +1,6 @@
+TensorFlow
+os
+keras
+PIL
+Pandas
+Numpy
